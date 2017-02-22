@@ -1,0 +1,27 @@
+{
+  "name": "fis3-parser-dart-sass",
+  "version": "0.0.1 pre-release",
+  "description": "a fis plugin to parse sass with dart-sass.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fisker/fis3-parser-dart-sass.git"
+  },
+  "keywords": [
+    "parser",
+    "sass",
+    "scss",
+    "fis3-parser-dart-sass",
+    "fis",
+    "fis3"
+  ],
+  "author": "fisker Cheung <lionkay@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/fisker/fis3-parser-dart-sass/issues"
+  },
+  "readmeFilename": "README.md"
+}
