@@ -18,7 +18,7 @@
   "author": "fisker Cheung <lionkay@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "dart-sass": "^1.0.0"
+    "dart-sass": "*"
   },
   "bugs": {
     "url": "https://github.com/fisker/fis3-parser-dart-sass/issues"
