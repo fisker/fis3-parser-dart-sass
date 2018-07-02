@@ -7,7 +7,7 @@ a fis plugin to parse sass with dart-sass.
 
 [![npm](https://img.shields.io/npm/v/fis3-parser-dart-sass.svg?style=flat-square)](https://www.npmjs.com/package/fis3-parser-dart-sass) 
 [![npm](https://img.shields.io/npm/dt/fis3-parser-dart-sass.svg?style=flat-square)](https://www.npmjs.com/package/fis3-parser-dart-sass) 
-[![npm](https://img.shields.io/npm/dm/fis3-parser-dart-sass.svg?style=flat-square)](https://www.npmjs.com/package/fis3-parser-dart-sass)
+[![npm](https://img.shields.io/npm/dm/fis3-parser-dart-sass.svg?style=flat-square)](https://www.npmjs.com/package/fis3-parser-dart-sass) [![Greenkeeper badge](https://badges.greenkeeper.io/fisker/fis3-parser-dart-sass.svg)](https://greenkeeper.io/)
 
 
 ## usage
